@@ -1,6 +1,7 @@
 ## Olá, me chamo Higor!
 
-<img align="right" width="200" height="200" alt="14623" src="https://github.com/user-attachments/assets/aa6d343b-53f8-47a6-9cbf-17886d3e6ab9" />
+<img align="right" width="200" height="200" alt="14623" src="https://github.com/user-attachments/assets/ae68014b-e8d5-4285-9025-638185266f2d" />
+
 
 ### My Tech Stack
 ![kotlin](https://www.readmecodegen.com/api/social-icon?name=kotlin&size=28&animation=breathe&animationDuration=2.5&textAlignment=horizontal&showText=true)
